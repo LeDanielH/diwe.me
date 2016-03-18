@@ -1,0 +1,10 @@
+.Normal_text {font-family:Arial;font-weight:normal;font-style:normal;font-size:13px;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.Heading_1 {font-family:Arial;font-weight:bold;font-style:normal;font-size:24px;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.top_heading {font-family:'Brandish Regular';font-weight:normal;font-size:36px;color:#FCF9F2;}
+.paragraph {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:12px;text-decoration:none;color:#FCF9F2;letter-spacing:0.0em;}
+.paragraph_r {}
+.quote_r {font-family:Times New Roman;font-style:italic;font-size:13px;color:#FCF9F2;}
+.headlines_r {font-family:'Brandish Regular';color:#FCF9F2;}
+.button {font-family:'Brandish Regular';font-weight:normal;font-style:normal;font-size:13px;text-decoration:none;color:#000100;letter-spacing:0.0em;}
+.headlines_l {color:#000000;}
+.paragraph_link {font-family:Arial;font-weight:normal;font-style:normal;}
